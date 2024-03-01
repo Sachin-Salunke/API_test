@@ -1,0 +1,25 @@
+{
+  "students": [
+    {
+      "id": 201,
+      "name": "Alice Johnson",
+      "location": "Cityville",
+      "phone": "+1234567890",
+      "courses": ["Mathematics", "Computer Science"]
+    },
+    {
+      "id": 202,
+      "name": "Bob Smith",
+      "location": "Townsville",
+      "phone": "+1987654321",
+      "courses": ["Physics", "English Literature"]
+    },
+    {
+      "id": 203,
+      "name": "Charlie Brown",
+      "location": "Village town",
+      "phone": "+1122334455",
+      "courses": ["History", "Chemistry"]
+    }
+  ]
+}
